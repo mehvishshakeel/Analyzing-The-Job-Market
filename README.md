@@ -17,7 +17,7 @@ This repository documents the analysis of job postings data over the years, util
 - Determined job positions and seniority levels based on job titles.
 - Implemented date-related metrics to analyze trends over time.
 
-## Excel Formulas and Techniques Used
+
 ## Excel Formulas and Techniques Used
 
 ```excel
@@ -25,7 +25,8 @@ This repository documents the analysis of job postings data over the years, util
 =VALUE(LEFT(C2, FIND("-", C2) - 1))  // Extracting minimum salary
 =IF(ISNUMBER(SEARCH("Python", D2)), 1, 0)  // Creating a table of Python skills
 =IF(ISNUMBER(SEARCH("data scientist", B2)), "data scientist", ...)  // Identifying job positions
-=RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis '''
+=RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis 
+```
 
 
 ## Power BI Visualizations
@@ -48,10 +49,5 @@ This repository documents the analysis of job postings data over the years, util
 
 This analysis equips the company with data-driven insights for effective hiring strategies, ensuring competitive positioning in the job market.
 
-The combination of Excel for data processing and Power BI for visualization offers a comprehensive approach to analyzing job postings data.
-```excel
-=SUBSTITUTE(C2, "$", "")  // Removing dollar signs from salary estimates
-=VALUE(LEFT(C2, FIND("-", C2) - 1))  // Extracting minimum salary
-=IF(ISNUMBER(SEARCH("Python", D2)), 1, 0)  // Creating a table of Python skills
-=IF(ISNUMBER(SEARCH("data scientist", B2)), "data scientist", ...)  // Identifying job positions
-=RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis
+The combination of Excel for data processing and Power BI for visualization offers a comprehensive approach to analyzing job posting data.
+
