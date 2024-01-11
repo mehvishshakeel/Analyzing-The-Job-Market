@@ -46,8 +46,8 @@ This repository documents the analysis of job postings data over the years, util
    - Created stacked area charts for average salary trends.
 
 ## Business Recommendations (Pages 4-5)
+![Image Alt Text](Img/Screenshot%202024-01-11%20at%2012.21.33%20PM.jpeg)
 
-Img/Screenshot 2024-01-11 at 12.21.33 PM.jpeg
 
 This analysis equips the company with data-driven insights for effective hiring strategies, ensuring competitive positioning in the job market.
 
