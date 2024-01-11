@@ -47,6 +47,8 @@ This repository documents the analysis of job postings data over the years, util
 
 ## Business Recommendations (Pages 4-5)
 
+Img/Screenshot 2024-01-11 at 12.21.33 PM.jpeg
+
 This analysis equips the company with data-driven insights for effective hiring strategies, ensuring competitive positioning in the job market.
 
 The combination of Excel for data processing and Power BI for visualization offers a comprehensive approach to analyzing job posting data.
