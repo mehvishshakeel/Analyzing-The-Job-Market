@@ -2,14 +2,14 @@
 
 ## Overview
 
-This repository contains the documentation and analysis for the job postings data over the years, utilizing Excel for data processing and Power BI for visualization. The analysis focuses on understanding job market trends to optimize job postings and inform strategic hiring decisions.
+This repository documents the analysis of job postings data over the years, utilizing Excel and Power BI. The analysis aims to understand the job market trends, optimize job postings, and make informed decisions about hiring strategies for the company.
 
 ## Data Cleaning and Processing
 
 ### Cleaning Data in Excel
 - Removed index for clarity.
 - Processed salary estimates to standardize and make them more meaningful.
-- Converted "company founded" to "company age" for a more relevant metric.
+- Converted "company founded" to "company age" for a more useful metric.
 - Removed competitors' rows with insufficient data.
 
 ### Creating Tables and Metrics
@@ -25,3 +25,4 @@ This repository contains the documentation and analysis for the job postings dat
 =IF(ISNUMBER(SEARCH("Python", D2)), 1, 0)  // Creating a table of Python skills
 =IF(ISNUMBER(SEARCH("data scientist", B2)), "data scientist", ...)  // Identifying job positions
 =RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis
+
