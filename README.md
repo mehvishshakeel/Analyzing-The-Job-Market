@@ -77,7 +77,43 @@ This repository showcases the data analysis conducted on job postings using Exce
 3. **Average of Rating and First Size by Company Name**
    - Explore competitors with similar ratings, providing insights for strategic adjustments and enhanced market standing.
 
-## Business Recommendations
+## Business Recommendations (Pages 5-6)
+<p align="center">
+  <img src="Img/Screenshot%202024-01-11%20at%202.27.29%20PM.png" width="45%" alt="Image 1">
+  <img src="Img/Screenshot%202024-01-11%20at%202.27.37%20PM.png" width="45%" alt="Image 2">
+</p>
 
-The analysis equips the company with data-driven insights for effective hiring strategies, ensuring a competitive position in the job market. The combination of Excel for data processing and Power BI for visualization offers a comprehensive approach to analyzing job postings data.
+### When to Hire?
+- Optimal job posting time: February to July, minimizing competition.
+- Strategic hiring window for data scientists: April to July.
+- Data analysts exhibit stable job postings throughout the year.
+
+**Recommendation:**
+- Plan job postings Feb to Jul for increased visibility.
+- Target data scientist recruitment Apr to Jul.
+- Leverage stable job postings for data analysts year-round.
+
+### Where to Hire?
+- Varied competition levels in different locations.
+- Correlation between skill demand and location.
+
+**Recommendation:**
+- Prioritize locations with lower competition.
+- Explore less-demanding locations for specific skills.
+
+### Salary Insights:
+- Location-specific salary benchmarks crucial for IT Services industry.
+- Overall salary stability within the 300k range.
+
+**Recommendation:**
+- Optimize IT Services salaries based on location benchmarks.
+- Strategically time IT Sector hires between Feb and May.
+
+### Marketing & Regulation:
+- 4.5 rating with a $129,000 salary places the company among similar-rated competitors.
+
+**Recommendation:**
+- Intensify marketing efforts around the 4.5 rating.
+- Address salary discrepancies through strategic promotion of the company's rating.
+
 
