@@ -38,7 +38,7 @@ This repository showcases the data analysis conducted on job postings using Exce
 ## Power BI Visualizations
 
 ### When to Hire?(pg1)
-![When to Hire Visuals](Img/Screenshot_2024-01-11_12.21.33_PM.jpeg)
+![Image Alt Text](Img/Screenshot%202024-01-11%20at%2012.21.33%20PM.jpeg)
 
 1. **Count of Job ID / Date posted on**
    - Understand the fluctuations in job postings and determine the optimal times for posting jobs to enhance profit margins.
