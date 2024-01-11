@@ -18,6 +18,7 @@ This repository documents the analysis of job postings data over the years, util
 - Implemented date-related metrics to analyze trends over time.
 
 ## Excel Formulas and Techniques Used
+## Excel Formulas and Techniques Used
 
 ```excel
 =SUBSTITUTE(C2, "$", "")  // Removing dollar signs from salary estimates
@@ -26,3 +27,31 @@ This repository documents the analysis of job postings data over the years, util
 =IF(ISNUMBER(SEARCH("data scientist", B2)), "data scientist", ...)  // Identifying job positions
 =RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis
 
+
+## Power BI Visualizations
+
+### Key Visualizations and Insights
+
+1. **Skills/Location Analysis (Page 1)**
+   - Examined skill demand in each country to inform benefit offerings.
+   - Used a status/count graph to understand the current job market.
+
+2. **When to Hire? (May – Jul) (Page 2)**
+   - Analyzed job posting trends to determine optimal hiring periods.
+   - Utilized graphs for job counts, posting dates, and job titles.
+
+3. **Salary Distribution/Location (Page 3)**
+   - Explored salary distribution across industries and locations.
+   - Created stacked area charts for average salary trends.
+
+## Business Recommendations (Pages 4-5)
+
+This analysis equips the company with data-driven insights for effective hiring strategies, ensuring competitive positioning in the job market.
+
+The combination of Excel for data processing and Power BI for visualization offers a comprehensive approach to analyzing job postings data.
+```excel
+=SUBSTITUTE(C2, "$", "")  // Removing dollar signs from salary estimates
+=VALUE(LEFT(C2, FIND("-", C2) - 1))  // Extracting minimum salary
+=IF(ISNUMBER(SEARCH("Python", D2)), 1, 0)  // Creating a table of Python skills
+=IF(ISNUMBER(SEARCH("data scientist", B2)), "data scientist", ...)  // Identifying job positions
+=RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis
