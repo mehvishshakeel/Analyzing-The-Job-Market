@@ -25,7 +25,7 @@ This repository documents the analysis of job postings data over the years, util
 =VALUE(LEFT(C2, FIND("-", C2) - 1))  // Extracting minimum salary
 =IF(ISNUMBER(SEARCH("Python", D2)), 1, 0)  // Creating a table of Python skills
 =IF(ISNUMBER(SEARCH("data scientist", B2)), "data scientist", ...)  // Identifying job positions
-=RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis
+=RANDBETWEEN(DATE(2021,1,1),DATE(2021,12,31))  // Generating random dates for analysis '''
 
 
 ## Power BI Visualizations
