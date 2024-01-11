@@ -87,7 +87,6 @@ This repository showcases the data analysis conducted on job postings using Exce
 - Optimal job posting time: February to July, minimizing competition.
 - Strategic hiring window for data scientists: April to July.
 - Data analysts exhibit stable job postings throughout the year.
-
 **Recommendation:**
 - Plan job postings Feb to Jul for increased visibility.
 - Target data scientist recruitment Apr to Jul.
@@ -96,7 +95,6 @@ This repository showcases the data analysis conducted on job postings using Exce
 ### Where to Hire?
 - Varied competition levels in different locations.
 - Correlation between skill demand and location.
-
 **Recommendation:**
 - Prioritize locations with lower competition.
 - Explore less-demanding locations for specific skills.
@@ -104,14 +102,12 @@ This repository showcases the data analysis conducted on job postings using Exce
 ### Salary Insights:
 - Location-specific salary benchmarks crucial for IT Services industry.
 - Overall salary stability within the 300k range.
-
 **Recommendation:**
 - Optimize IT Services salaries based on location benchmarks.
 - Strategically time IT Sector hires between Feb and May.
 
 ### Marketing & Regulation:
 - 4.5 rating with a $129,000 salary places the company among similar-rated competitors.
-
 **Recommendation:**
 - Intensify marketing efforts around the 4.5 rating.
 - Address salary discrepancies through strategic promotion of the company's rating.
