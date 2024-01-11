@@ -38,7 +38,8 @@ This repository showcases the data analysis conducted on job postings using Exce
 ## Power BI Visualizations
 
 ### When to Hire? (May – Jul) (3 visuals) (pg2)
-[When to Hire Visuals](Img/Screenshot_2024-01-11_12.21.33_PM.jpeg)
+![Image Alt Text](Img/Screenshot%202024-01-11%20at%2012.21.33%20PM.jpeg)
+
 
 1. **Count of Job ID / Date posted on (pg2)**
    - Understand the fluctuations in job postings and determine the optimal times for posting jobs to enhance profit margins.
@@ -48,6 +49,8 @@ This repository showcases the data analysis conducted on job postings using Exce
    - Use the slicer graph to dynamically filter job postings between 2021 and 2023.
 
 ### Where to Hire? Page 1 (3 visuals) (pg1)
+![Image Alt Text](Img/Screenshot%202024-01-11%20at%2012.21.33%20PM.jpeg)
+
 [Where to Hire Visuals](Img/Screenshot_2024-01-11_12.24.32_PM.jpeg)
 
 1. **Skills / Location: (pg1)**
